@@ -12,8 +12,8 @@
     
     <h1>comics</h1>
 
-    <p>
-        @yield('paragrafo principale')
-    </p>
+
+    @yield('paragrafo')
+   
 </body>
 </html>
