@@ -10,6 +10,8 @@
 </head>
 <body>
     
+    @include('partials.navbar')
+
     <h1>comics</h1>
 
 
