@@ -11,9 +11,7 @@
 <body>
     
     @include('partials.navbar')
-
-    <h1>comics</h1>
-
+    @include('partials.jumbo')
 
     @yield('paragrafo')
    

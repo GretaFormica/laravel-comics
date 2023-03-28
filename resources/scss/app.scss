@@ -7,3 +7,18 @@
 img {
     max-height: 150px;
 }
+
+.header{
+    padding: 50px;
+}
+
+.logo{
+    width: 50px;
+}
+
+.jumbo{
+    background-image: url('./../img/images/jumbotron.jpg');
+    background-size: cover;
+    height: 70vh;
+    width: 100%;
+}
